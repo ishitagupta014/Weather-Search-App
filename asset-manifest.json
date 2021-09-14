@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-Search-App/static/css/main.02b24216.chunk.css",
+    "main.js": "/Weather-Search-App/static/js/main.da67f14a.chunk.js",
+    "main.js.map": "/Weather-Search-App/static/js/main.da67f14a.chunk.js.map",
+    "runtime-main.js": "/Weather-Search-App/static/js/runtime-main.1b2656d7.js",
+    "runtime-main.js.map": "/Weather-Search-App/static/js/runtime-main.1b2656d7.js.map",
+    "static/js/2.ef97fff8.chunk.js": "/Weather-Search-App/static/js/2.ef97fff8.chunk.js",
+    "static/js/2.ef97fff8.chunk.js.map": "/Weather-Search-App/static/js/2.ef97fff8.chunk.js.map",
+    "static/js/3.3ae30ffe.chunk.js": "/Weather-Search-App/static/js/3.3ae30ffe.chunk.js",
+    "static/js/3.3ae30ffe.chunk.js.map": "/Weather-Search-App/static/js/3.3ae30ffe.chunk.js.map",
+    "index.html": "/Weather-Search-App/index.html",
+    "static/css/main.02b24216.chunk.css.map": "/Weather-Search-App/static/css/main.02b24216.chunk.css.map",
+    "static/js/2.ef97fff8.chunk.js.LICENSE.txt": "/Weather-Search-App/static/js/2.ef97fff8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Weather-Search-App/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b2656d7.js",
+    "static/js/2.ef97fff8.chunk.js",
+    "static/css/main.02b24216.chunk.css",
+    "static/js/main.da67f14a.chunk.js"
+  ]
+}
